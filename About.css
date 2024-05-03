@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+     background-image: url('file:///C:/Users/admin/Downloads/vecteezy_black-frame-overlapping-paper-layers-with-pink-or-red-edges_831138/bg1_(3).jpg');
+  background-size: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  margin: 0;
+  padding: 0;
+}
+h1{
+	color:#FF003D;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px 0;
+	color: white;
+}
+
+
+nav {
+   
+    color: #fff;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
