@@ -8,6 +8,6 @@ function buyNow(productName) {
         var paymentMethod = prompt("Please enter your payment method (e.g., credit card, PayPal):");
         var shippingAddress = prompt("Please enter your shipping address:");
          alert("Thank you for your purchase!");
-	  window.location.href = "main.html";
+	  window.location.href = "index.html";
     }
 }
